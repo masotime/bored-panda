@@ -1,0 +1,22 @@
+{
+  "name": "bored-panda",
+  "version": "1.0.0",
+  "description": "Puzzles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/masotime/bored-panda.git"
+  },
+  "author": "masotime@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masotime/bored-panda/issues"
+  },
+  "homepage": "https://github.com/masotime/bored-panda",
+  "dependencies": {
+    "babel": "^5.1.10"
+  }
+}
